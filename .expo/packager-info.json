@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://cn-ubp.anonymous.rn-starter.exp.direct",
+  "packagerNgrokUrl": "https://packager.cn-ubp.anonymous.rn-starter.exp.direct",
+  "ngrokPid": 3412,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
